@@ -36,6 +36,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <div style="display: flex; gap: 30px; background-color: rgba(0, 0, 255, 0.1); padding: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouaret-Lamia&layout=compact&theme=radical" alt="ouaret-lamia" />
