@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Lamia</h1>
-<h3 align="center">A passionate Frontend Developer with a recently earned Bachelor's Degree in Computer Science. Currently, I'm advancing my knowledge by pursuing a Master's Degree. I enjoy creating dynamic user interfaces using modern technologies like React and Tailwind CSS. Always eager to learn and contribute to exciting projects.</h3>
+<p align="center">A passionate Frontend Developer with a recently earned Bachelor's Degree in Computer Science. Currently, I'm advancing my knowledge by pursuing a Master's Degree. I enjoy creating dynamic user interfaces using modern technologies like React and Tailwind CSS. Always eager to learn and contribute to exciting projects.</>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouaret-lamia&label=Profile%20views&color=0e75b6&style=flat" alt="ouaret-lamia" /> </p>
 
